@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-03T13:13:44.668Z",
+  "country": "KZ",
+  "currency": "KZT",
+  "offers": [
+    {
+      "id": "leadssu_9637",
+      "isActive": true,
+      "sortOrder": null,
+      "title": {
+        "ru": "CreditPlus",
+        "kk": ""
+      },
+      "imageUrl": "https://raw.githubusercontent.com/MurQa/aqshabar_public/main/offer_image/leadssu_9637.png?v=fb9930e833a6e9bccc6f2c30e6149ceabe3e65d3",
+      "shortDescription": {
+        "ru": "CreditPlus — современный онлайн-сервис микрокредитования в Казахстане, который предоставляет денежные средства на личные и предпринимательские цели. Мы помогаем физическим лицам, индивидуальным предпринимателям и самозанятым быстро получать финансирование полностью онлайн — без посещения офиса и длительного ожидания.",
+        "kk": "CreditPlus — Қазақстандағы жеке және кәсіпкерлік мақсаттарға арналған қаражатты ұсынатын заманауи онлайн микрокредит сервисі. Біз жеке тұлғаларға, жеке кәсіпкерлерге және өзін-өзі жұмыспен қамтыған азаматтарға кеңсеге бармай-ақ, толықтай онлайн түрде қаржыландыруды жылдам алуға көмектесеміз."
+      },
+      "description": {
+        "ru": "",
+        "kk": ""
+      },
+      "amount": {
+        "min": 20000,
+        "max": 180000
+      },
+      "term": {
+        "minDays": 5,
+        "maxDays": 20
+      },
+      "annualEffectiveRate": {
+        "min": 3.65,
+        "max": 46
+      },
+      "dailyRate": {
+        "min": 0.01,
+        "max": null
+      },
+      "approvalTimeMinutes": null,
+      "borrowerRequirements": {
+        "citizenship": [],
+        "age": {
+          "min": 18,
+          "max": 70
+        },
+        "requiresBankCard": false,
+        "requiresIBAN": true,
+        "requiresIdentityDocument": false,
+        "requiresCamera": false
+      },
+      "applicationFlow": {
+        "isOnline": false,
+        "registrationSteps": null,
+        "requiresPhotoIdentification": false
+      },
+      "disbursementMethods": [],
+      "repaymentMethods": [],
+      "isFirstLoanZeroPercent": false,
+      "firstLoanPromo": null,
+      "stickers": [],
+      "partner": {
+        "deeplink": "https://pxl.leads.su/click/2c39cbc74cab723d0604adcf5a7c76fd"
+      },
+      "legal": {
+        "disclaimer": {
+          "ru": "",
+          "kk": ""
+        }
+      }
+    },
+    {
+      "id": "leadssu_10106",
+      "isActive": true,
+      "sortOrder": null,
+      "title": {
+        "ru": "Новый оффер",
+        "kk": ""
+      },
+      "imageUrl": "https://raw.githubusercontent.com/MurQa/aqshabar_public/main/offer_image/leadssu_10106.png?v=4027862196fd28600a80e3d66017e0d30d2e55dc",
+      "shortDescription": {
+        "ru": "",
+        "kk": ""
+      },
+      "description": {
+        "ru": "",
+        "kk": ""
+      },
+      "amount": {
+        "min": 20000,
+        "max": 300000
+      },
+      "term": {
+        "minDays": 10,
+        "maxDays": 30
+      },
+      "annualEffectiveRate": {
+        "min": null,
+        "max": 46
+      },
+      "dailyRate": {
+        "min": 0.1,
+        "max": null
+      },
+      "approvalTimeMinutes": null,
+      "borrowerRequirements": {
+        "citizenship": [],
+        "age": {
+          "min": 18,
+          "max": 75
+        },
+        "requiresBankCard": false,
+        "requiresIBAN": false,
+        "requiresIdentityDocument": false,
+        "requiresCamera": false
+      },
+      "applicationFlow": {
+        "isOnline": false,
+        "registrationSteps": null,
+        "requiresPhotoIdentification": false
+      },
+      "disbursementMethods": [],
+      "repaymentMethods": [],
+      "isFirstLoanZeroPercent": false,
+      "firstLoanPromo": null,
+      "stickers": [],
+      "partner": {
+        "deeplink": "https://pxl.leads.su/click/0cf8f160472f2a858fc76fc08b188702"
+      },
+      "legal": {
+        "disclaimer": {
+          "ru": "",
+          "kk": ""
+        }
+      }
+    }
+  ]
+}

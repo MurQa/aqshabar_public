@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08T07:51:04.095Z",
+  "updatedAt": "2026-07-08T09:07:23.649Z",
   "country": "KZ",
   "currency": "KZT",
   "offers": [
@@ -85,6 +85,89 @@
       },
       "partner": {
         "deeplink": "https://pxl.leads.su/click/b3e48c0431bea2f47020df92ba597c54"
+      }
+    },
+    {
+      "id": "leadssu_10874",
+      "isActive": true,
+      "title": {
+        "ru": "OneCredit"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/MurQa/aqshabar_public/main/offer_image/leadssu_10874.png?v=68426ea5a7cae771af50d408785b65d09aa9d1bb",
+      "shortDescription": {
+        "ru": "OneCredit — сервис простого онлайн-микрокредитования. Мы помогаем клиентам оперативно решить финансовые вопросы, где бы они ни находились!",
+        "kk": "OneCredit — бұл ыңғайлылық, жылдамдық және сенімділік. Өз көзіңізбен байқап көріңіз!"
+      },
+      "amount": {
+        "min": 20000,
+        "max": 300000
+      },
+      "term": {
+        "min": 10,
+        "max": 20
+      },
+      "annualEffectiveRate": {
+        "min": 3.7,
+        "max": 179
+      },
+      "dailyRate": {
+        "min": 0.01,
+        "max": 0.99
+      },
+      "partner": {
+        "deeplink": "https://pxl.leads.su/click/a5cd80bc4c9472687064650f8aaf17af"
+      }
+    },
+    {
+      "id": "leadssu_10925",
+      "isActive": true,
+      "title": {
+        "ru": "Tengebai"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/MurQa/aqshabar_public/main/offer_image/leadssu_10925.png?v=343c1d65b377217a1f93a27f0fa6b270725d707a",
+      "shortDescription": {
+        "ru": "Tengebai.kz является торговой маркой компании Товарищество с ограниченной ответственностью МФО “TodayFinance Kazakhstan”. На сайте можно подать заявку дистанционно, без посещения офиса, и после одобрения получить деньги на банковскую карту. \n\nОформление доступно из любого города Казахстана, включая Алматы, Астану, Шымкент, Павлодар и другие населённые пункты.\n\nЗаявка подаётся через интернет, а условия микрокредита отображаются до подписания договора. Это позволяет заранее оценить сумму к возврату, срок и ГЭСВ (Годовая Эффективная Ставка Вознаграждения).",
+        "kk": "Tengebai.kz — «TodayFinance Kazakhstan» МҚҰ» Жауапкершілігі шектеулі серіктестігі компаниясының сауда белгісі. Сайтта өтінімді кеңсеге барусыз қашықтан беруге, ал мақұлданғаннан кейін ақшаны банк картасына немесе IBAN-шотқа алуға болады. Рәсімдеу Қазақстанның кез келген қаласынан, оның ішінде Алматы, Астана, Шымкент, Павлодар және басқа да елді мекендерден қолжетімді.\nӨтінім интернет арқылы беріледі, ал микрокредит шарттары шартқа қол қою алдында көрсетіледі. Бұл қайтару сомасын, мерзімін, сыйақы мөлшерлемесін және ЖТСМ-ді алдын ала бағалауға мүмкіндік береді."
+      },
+      "amount": {
+        "min": 10000,
+        "max": 300000
+      },
+      "term": {
+        "min": 7,
+        "max": 30
+      },
+      "annualEffectiveRate": {
+        "min": 29.3,
+        "max": 45.7
+      },
+      "dailyRate": {
+        "min": 0.01
+      },
+      "partner": {
+        "deeplink": "https://pxl.leads.su/click/8c6473ec9d67890aaee72678d44e86dc"
+      }
+    },
+    {
+      "id": "leadssu_11583",
+      "isActive": false,
+      "title": {
+        "ru": "Kviku"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/MurQa/aqshabar_public/main/offer_image/leadssu_11583.png?v=0a33bfd84835449fbf42882903f8a266329a6aff",
+      "amount": {
+        "min": 10000,
+        "max": 170000
+      },
+      "term": {
+        "min": 15,
+        "max": 45
+      },
+      "dailyRate": {
+        "min": 0.01
+      },
+      "partner": {
+        "deeplink": "https://pxl.leads.su/click/9c98b00157e37940622f6de1d6330285"
       }
     }
   ]

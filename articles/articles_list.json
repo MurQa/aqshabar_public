@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "articles": [
+    {
+      "id": "article_001",
+      "title": {
+        "ru": "Что делать? Если на ваше имя оформлен мошеннический кредит"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/MurQa/aqshabar_public/main/articles/images/banner.png?v=a19033620d4b99a2d0a14e5fa3be58841cdce29d",
+      "htmlUrl": "https://raw.githubusercontent.com/MurQa/aqshabar_public/main/articles/html/article_001.html"
+    }
+  ]
+}

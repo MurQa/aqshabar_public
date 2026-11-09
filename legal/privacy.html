@@ -78,7 +78,7 @@
 <p>Құпиялылық және құқықтарды іске асыру мәселелері бойынша AqshaBar иесіне мобильді қосымшада немесе қосымшалар дүкеніндегі парақшада көрсетілген байланыс мекенжайы арқылы жүгініңіз. Өтініште талаптың мәнін және тиісті өтінішті сәйкестендіруге мүмкіндік беретін мәліметтерді көрсетіңіз, банк құпиясөздері мен SMS-кодтарды бермеңіз.</p></article>
   </main>
   <script>
-    (()=>{const q=new URLSearchParams(location.search).get('lang');const lang=q==='kk'?'kk':'ru';document.documentElement.lang=lang;document.title=lang==='kk'?"AqshaBar құпиялылық саясаты":"Политика конфиденциальности AqshaBar";for(const el of document.querySelectorAll('article[data-lang]'))el.dataset.active=el.dataset.lang===lang?'true':'false';document.getElementById('languageNote').textContent=lang==='kk'?'Құжаттың тілі: қазақша':'Язык документа: русский';})();
+    (()=>{const q=new URLSearchParams(location.search).get('lang');const pageLang=document.documentElement.lang;const lang=q==='kk'||(!q&&pageLang==='kk')?'kk':'ru';document.documentElement.lang=lang;document.title=lang==='kk'?"AqshaBar құпиялылық саясаты":"Политика конфиденциальности AqshaBar";for(const el of document.querySelectorAll('article[data-lang]'))el.dataset.active=el.dataset.lang===lang?'true':'false';document.getElementById('languageNote').textContent=lang==='kk'?'Құжаттың тілі: қазақша':'Язык документа: русский';})();
   </script>
 </body>
 </html>
